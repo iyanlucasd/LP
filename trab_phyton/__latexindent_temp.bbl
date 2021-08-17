@@ -1,0 +1,114 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[CNRI 2020]{cnri}
+\abntrefinfo{CNRI}{CNRI}{2020}
+{CNRI. \textbf{About CNRI}. 2020.
+Dispon{\'\i}vel em: \url{https://www.cnri.reston.va.us/about\_cnri.html}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Filipa 2020]{comparacao}
+\abntrefinfo{Filipa}{FILIPA}{2020}
+{FILIPA, S. \textbf{Python: Comparando Python com outras linguagens}. 2020.
+Dispon{\'\i}vel em:
+  \url{https://www.cetax.com.br/blog/comparando-python-com-outras-linguagens/}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Foundation 2021]{FSF}
+\abntrefinfo{Foundation}{FOUNDATION}{2021a}
+{FOUNDATION, F.~S. \textbf{Free Software Foundation}. 2021.
+Dispon{\'\i}vel em: \url{https://www.fsf.org/about/}. Acesso em: 31 de maio de
+  2021.}
+
+\bibitem[Foundation 2021]{PyDoc}
+\abntrefinfo{Foundation}{FOUNDATION}{2021b}
+{FOUNDATION, P.~S. \textbf{Python Official Documentation}. 2021.
+Dispon{\'\i}vel em: \url{https://docs.python.org/3/}. Acesso em: 31 de maio de
+  2021.}
+
+\bibitem[Foundation 2021]{pyMan}
+\abntrefinfo{Foundation}{FOUNDATION}{2021c}
+{FOUNDATION, P.~S. \textbf{Python/C API Reference Manua}: Initialization,
+  finalization, and threads.
+[S.l.], 2021. 90~p. Dispon{\'\i}vel em:
+  \url{https://docs.python.org/3/c-api/index.html}. Acesso em: 01 de fevereiro
+  de 2021.}
+
+\bibitem[Howe 2005]{list}
+\abntrefinfo{Howe}{HOWE}{2005}
+{HOWE, D. \textbf{List Comprehension}. 2005.
+Dispon{\'\i}vel em:
+  \url{https://web.archive.org/web/20050125080818/http://ftp.sunet.se/foldoc/foldoc.cgi?list+comprehension}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Kamens 2008]{alt.sources}
+\abntrefinfo{Kamens}{KAMENS}{2008}
+{KAMENS, J.~I. \textbf{alt-sources-intro}. 2008.
+Dispon{\'\i}vel em: \url{http://www.faqs.org/faqs/alt-sources-intro/}. Acesso
+  em: 1 de junho de 2021.}
+
+\bibitem[McLay 1994]{bus}
+\abntrefinfo{McLay}{MCLAY}{1994}
+{MCLAY, M. \textbf{If Guido was hit by a bus?} 1994.
+Dispon{\'\i}vel em:
+  \url{https://legacy.python.org/search/hypermail/python-1994q2/1040.html}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Overflow 2020]{SO}
+\abntrefinfo{Overflow}{OVERFLOW}{2020}
+{OVERFLOW, S. \textbf{2020 Developer Survey}. 2020.
+Dispon{\'\i}vel em:
+  \url{https://insights.stackoverflow.com/survey/2020\#overview}. Acesso em: 1
+  de junho de 2021.}
+
+\bibitem[Project e Community 2021]{zope}
+\abntrefinfo{Project e Community}{PROJECT; COMMUNITY}{2021}
+{PROJECT, Z.; COMMUNITY. \textbf{Zope Official Documentation}. 2021.
+Dispon{\'\i}vel em: \url{https://www.zope.org/documentation/index.html}. Acesso
+  em: 31 de maio de 2021.}
+
+\bibitem[Rossum e Drake 2011]{10.5555/2011965}
+\abntrefinfo{Rossum e Drake}{ROSSUM; DRAKE}{2011}
+{ROSSUM, G. van; DRAKE, F.~L. \textbf{The Python Language Reference Manual}.
+  [S.l.]: Network Theory Ltd., 2011.
+ISBN 1906966141.}
+
+\bibitem[Simionato 2008]{30}
+\abntrefinfo{Simionato}{SIMIONATO}{2008}
+{SIMIONATO, M. \textbf{The Python 2.3 Method Resolution Order}: Documentos
+  t\'{e}cnicos e cient\'{i}ficos brasileiros compat\'{i}veis com as normas
+  abnt.
+[S.l.], 2008. 20~p. Dispon{\'\i}vel em:
+  \url{https://www.python.org/download/releases/2.3/mro/}. Acesso em: 31 de
+  maio de 2021.}
+
+\bibitem[Spectrum 2020]{SOIEEE}
+\abntrefinfo{Spectrum}{SPECTRUM}{2020}
+{SPECTRUM, I. \textbf{Interactive: The Top Programming Languages}. 2020.
+Dispon{\'\i}vel em:
+  \url{https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2020}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Venners 2003]{entrevistaGuido}
+\abntrefinfo{Venners}{VENNERS}{2003}
+{VENNERS, B. \textbf{The Making of Python: A Conversation with Guido van
+  Rossum, Part I}. 2003.
+Dispon{\'\i}vel em: \url{https://www.artima.com/articles/the-making-of-python}.
+  Acesso em: 1 de junho de 2021.}
+
+\bibitem[Watt 2004]{pldc}
+\abntrefinfo{Watt}{WATT}{2004}
+{WATT, D.~A. \textbf{Programming Language Design Concepts}. 1. ed. University
+  of Glasgow: John Wiley \& Sons, 2004.}
+
+\bibitem[Wikipedia 2021]{MountPython}
+\abntrefinfo{Wikipedia}{WIKIPEDIA}{2021}
+{WIKIPEDIA. \textbf{Mount Python's Flying Circus}. 2021.
+Dispon{\'\i}vel em: \url{https://en.wikipedia.org/wiki/Monty\_Python}. Acesso
+  em: 31 de maio de 2021.}
+
+\end{thebibliography}

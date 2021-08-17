@@ -1,0 +1,920 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  25 MAY 2021 21:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/iyan/PUC/LP/resumo/main.tex
+(/home/iyan/PUC/LP/resumo/main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/home/iyan/PUC/LP/resumo/sbc-template.sty
+Package: sbc-template 2001/06/09
+ (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+) (/usr/share/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+\c@instn=\count192
+ (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
+\ttl@toksa=\toks17
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
+) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count194
+\U@D=\dimen161
+\l@babelnohyphens=\language87
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count195
+ (/usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
+Language: portuges 2021/02/04 v1.2s Portuguese support from the babel system
+Package babel Info: \l@brazil = using hyphenrules for portuguese
+(babel)             (\language70) on input line 111.
+Package babel Info: Making " an active character on input line 143.
+)) (/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+ (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip53
+) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen164
+\ESO@tempdimb=\dimen165
+ (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen166
+\AM@pageheight=\dimen167
+\AM@fboxrule=\dimen168
+ (/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count199
+\AM@pagebox=\box48
+\AM@global@opts=\toks20
+\AM@pagecnt=\count266
+\AM@toc@title=\toks21
+\c@AM@survey=\count267
+\AM@templatesizebox=\box49
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 12.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box50
+) (/home/iyan/PUC/LP/resumo/main.aux (/home/iyan/PUC/LP/resumo/cap1.aux) (/home/iyan/PUC/LP/resumo/cap2.aux) (/home/iyan/PUC/LP/resumo/anexos.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(99.58464pt, 674.33032pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen169
+\scratchbox=\box51
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen170
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+Overfull \hbox (90.06465pt too wide) in paragraph at lines 13--13
+ [][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `cap1.aux'.
+
+ (/home/iyan/PUC/LP/resumo/cap1.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2
+
+] [3]
+<anexos/Screenshot_38.png, id=18, 426.91454pt x 84.93588pt>
+File: anexos/Screenshot_38.png Graphic file (type png)
+<use anexos/Screenshot_38.png>
+Package pdftex.def Info: anexos/Screenshot_38.png  used on input line 71.
+(pdftex.def)             Requested size: 426.91348pt x 84.93565pt.
+) [4 </home/iyan/PUC/LP/resumo/anexos/Screenshot_38.png (PNG copy)>]
+\openout2 = `cap2.aux'.
+
+ (/home/iyan/PUC/LP/resumo/cap2.tex
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 1.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13> not available
+(Font)              size <12> substituted on input line 1.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 1.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 1.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 1.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <13> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.09996> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.5> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+<anexos/Screenshot_40.png, id=22, 452.24629pt x 50.6635pt>
+File: anexos/Screenshot_40.png Graphic file (type png)
+<use anexos/Screenshot_40.png>
+Package pdftex.def Info: anexos/Screenshot_40.png  used on input line 8.
+(pdftex.def)             Requested size: 452.24518pt x 50.66336pt.
+
+Overfull \hbox (25.45383pt too wide) in paragraph at lines 8--9
+ [][] 
+ []
+
+<anexos/Screenshot_39.png, id=23, 455.97154pt x 39.48773pt>
+File: anexos/Screenshot_39.png Graphic file (type png)
+<use anexos/Screenshot_39.png>
+Package pdftex.def Info: anexos/Screenshot_39.png  used on input line 14.
+(pdftex.def)             Requested size: 455.97041pt x 39.48763pt.
+
+Overfull \hbox (29.17906pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+<anexos/Screenshot_41.png, id=24, 163.91135pt x 25.33176pt>
+File: anexos/Screenshot_41.png Graphic file (type png)
+<use anexos/Screenshot_41.png>
+Package pdftex.def Info: anexos/Screenshot_41.png  used on input line 23.
+(pdftex.def)             Requested size: 163.91093pt x 25.33168pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+
+
+ </home/iyan/PUC/LP/resumo/anexos/Screenshot_40.png (PNG copy)> </home/iyan/PUC/LP/resumo/anexos/Screenshot_39.png (PNG copy)>]
+<anexos/Screenshot_42.png, id=30, 273.43391pt x 76.74031pt>
+File: anexos/Screenshot_42.png Graphic file (type png)
+<use anexos/Screenshot_42.png>
+Package pdftex.def Info: anexos/Screenshot_42.png  used on input line 30.
+(pdftex.def)             Requested size: 273.43323pt x 76.74011pt.
+) [6 </home/iyan/PUC/LP/resumo/anexos/Screenshot_41.png (PNG copy)> </home/iyan/PUC/LP/resumo/anexos/Screenshot_42.png (PNG copy)>]
+\openout2 = `anexos.aux'.
+
+ (/home/iyan/PUC/LP/resumo/anexos.tex
+<anexos/iyan.pdf, id=35, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf>
+Package pdftex.def Info: anexos/iyan.pdf  used on input line 3.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf>
+Package pdftex.def Info: anexos/iyan.pdf  used on input line 3.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<anexos/iyan.pdf, id=38, page=1, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 1>
+Package pdftex.def Info: anexos/iyan.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 1>
+Package pdftex.def Info: anexos/iyan.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [7
+
+
+
+]
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 1>
+Package pdftex.def Info: anexos/iyan.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 1>
+Package pdftex.def Info: anexos/iyan.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 1>
+Package pdftex.def Info: anexos/iyan.pdf , page1 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [8 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=58, page=2, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 2>
+Package pdftex.def Info: anexos/iyan.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 2>
+Package pdftex.def Info: anexos/iyan.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 2>
+Package pdftex.def Info: anexos/iyan.pdf , page2 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [9 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=62, page=3, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 3>
+Package pdftex.def Info: anexos/iyan.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 3>
+Package pdftex.def Info: anexos/iyan.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 3>
+Package pdftex.def Info: anexos/iyan.pdf , page3 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [10 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=66, page=4, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 4>
+Package pdftex.def Info: anexos/iyan.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 4>
+Package pdftex.def Info: anexos/iyan.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 4>
+Package pdftex.def Info: anexos/iyan.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [11 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=71, page=5, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 5>
+Package pdftex.def Info: anexos/iyan.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 5>
+Package pdftex.def Info: anexos/iyan.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 5>
+Package pdftex.def Info: anexos/iyan.pdf , page5 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [12 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=75, page=6, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 6>
+Package pdftex.def Info: anexos/iyan.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 6>
+Package pdftex.def Info: anexos/iyan.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 6>
+Package pdftex.def Info: anexos/iyan.pdf , page6 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [13 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=85, page=7, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 7>
+Package pdftex.def Info: anexos/iyan.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 7>
+Package pdftex.def Info: anexos/iyan.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 7>
+Package pdftex.def Info: anexos/iyan.pdf , page7 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [14 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=89, page=8, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 8>
+Package pdftex.def Info: anexos/iyan.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 8>
+Package pdftex.def Info: anexos/iyan.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 8>
+Package pdftex.def Info: anexos/iyan.pdf , page8 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [15 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=93, page=9, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 9>
+Package pdftex.def Info: anexos/iyan.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 9>
+Package pdftex.def Info: anexos/iyan.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 9>
+Package pdftex.def Info: anexos/iyan.pdf , page9 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [16 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=102, page=10, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 10>
+Package pdftex.def Info: anexos/iyan.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 10>
+Package pdftex.def Info: anexos/iyan.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 10>
+Package pdftex.def Info: anexos/iyan.pdf , page10 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [17 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=107, page=11, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 11>
+Package pdftex.def Info: anexos/iyan.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 11>
+Package pdftex.def Info: anexos/iyan.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 11>
+Package pdftex.def Info: anexos/iyan.pdf , page11 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [18 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=112, page=12, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 12>
+Package pdftex.def Info: anexos/iyan.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 12>
+Package pdftex.def Info: anexos/iyan.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 12>
+Package pdftex.def Info: anexos/iyan.pdf , page12 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [19 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=120, page=13, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 13>
+Package pdftex.def Info: anexos/iyan.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 13>
+Package pdftex.def Info: anexos/iyan.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 13>
+Package pdftex.def Info: anexos/iyan.pdf , page13 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [20 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=130, page=14, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 14>
+Package pdftex.def Info: anexos/iyan.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 14>
+Package pdftex.def Info: anexos/iyan.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 14>
+Package pdftex.def Info: anexos/iyan.pdf , page14 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [21 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=139, page=15, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 15>
+Package pdftex.def Info: anexos/iyan.pdf , page15 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 15>
+Package pdftex.def Info: anexos/iyan.pdf , page15 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 15>
+Package pdftex.def Info: anexos/iyan.pdf , page15 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [22 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=146, page=16, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 16>
+Package pdftex.def Info: anexos/iyan.pdf , page16 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 16>
+Package pdftex.def Info: anexos/iyan.pdf , page16 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 16>
+Package pdftex.def Info: anexos/iyan.pdf , page16 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [23 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=155, page=17, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 17>
+Package pdftex.def Info: anexos/iyan.pdf , page17 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 17>
+Package pdftex.def Info: anexos/iyan.pdf , page17 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 17>
+Package pdftex.def Info: anexos/iyan.pdf , page17 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [24 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/iyan.pdf, id=163, page=18, 598.235pt x 845.1575pt>
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 18>
+Package pdftex.def Info: anexos/iyan.pdf , page18 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 18>
+Package pdftex.def Info: anexos/iyan.pdf , page18 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/iyan.pdf Graphic file (type pdf)
+<use anexos/iyan.pdf, page 18>
+Package pdftex.def Info: anexos/iyan.pdf , page18 used on input line 3.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [25 </home/iyan/PUC/LP/resumo/anexos/iyan.pdf>]
+<anexos/cosso.pdf, id=171, 598.235pt x 845.1575pt>
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf>
+Package pdftex.def Info: anexos/cosso.pdf  used on input line 7.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf>
+Package pdftex.def Info: anexos/cosso.pdf  used on input line 7.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<anexos/cosso.pdf, id=174, page=1, 598.235pt x 845.1575pt>
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 1>
+Package pdftex.def Info: anexos/cosso.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 1>
+Package pdftex.def Info: anexos/cosso.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [26]
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 1>
+Package pdftex.def Info: anexos/cosso.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 1>
+Package pdftex.def Info: anexos/cosso.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 1>
+Package pdftex.def Info: anexos/cosso.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [27 </home/iyan/PUC/LP/resumo/anexos/cosso.pdf>]
+<anexos/cosso.pdf, id=203, page=2, 598.235pt x 845.1575pt>
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 2>
+Package pdftex.def Info: anexos/cosso.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 2>
+Package pdftex.def Info: anexos/cosso.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 2>
+Package pdftex.def Info: anexos/cosso.pdf , page2 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [28 </home/iyan/PUC/LP/resumo/anexos/cosso.pdf>]
+<anexos/cosso.pdf, id=217, page=3, 598.235pt x 845.1575pt>
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 3>
+Package pdftex.def Info: anexos/cosso.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 3>
+Package pdftex.def Info: anexos/cosso.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/cosso.pdf Graphic file (type pdf)
+<use anexos/cosso.pdf, page 3>
+Package pdftex.def Info: anexos/cosso.pdf , page3 used on input line 7.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [29 </home/iyan/PUC/LP/resumo/anexos/cosso.pdf>]
+<anexos/samir.pdf, id=221, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf>
+Package pdftex.def Info: anexos/samir.pdf  used on input line 11.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf>
+Package pdftex.def Info: anexos/samir.pdf  used on input line 11.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<anexos/samir.pdf, id=224, page=1, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 1>
+Package pdftex.def Info: anexos/samir.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 1>
+Package pdftex.def Info: anexos/samir.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [30]
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 1>
+Package pdftex.def Info: anexos/samir.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 1>
+Package pdftex.def Info: anexos/samir.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 1>
+Package pdftex.def Info: anexos/samir.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [31 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=250, page=2, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 2>
+Package pdftex.def Info: anexos/samir.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 2>
+Package pdftex.def Info: anexos/samir.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 2>
+Package pdftex.def Info: anexos/samir.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [32 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=254, page=3, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 3>
+Package pdftex.def Info: anexos/samir.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 3>
+Package pdftex.def Info: anexos/samir.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 3>
+Package pdftex.def Info: anexos/samir.pdf , page3 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [33 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=258, page=4, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 4>
+Package pdftex.def Info: anexos/samir.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 4>
+Package pdftex.def Info: anexos/samir.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 4>
+Package pdftex.def Info: anexos/samir.pdf , page4 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [34 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=262, page=5, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 5>
+Package pdftex.def Info: anexos/samir.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 5>
+Package pdftex.def Info: anexos/samir.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 5>
+Package pdftex.def Info: anexos/samir.pdf , page5 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [35 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=271, page=6, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 6>
+Package pdftex.def Info: anexos/samir.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 6>
+Package pdftex.def Info: anexos/samir.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 6>
+Package pdftex.def Info: anexos/samir.pdf , page6 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [36 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=280, page=7, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 7>
+Package pdftex.def Info: anexos/samir.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 7>
+Package pdftex.def Info: anexos/samir.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 7>
+Package pdftex.def Info: anexos/samir.pdf , page7 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [37 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=285, page=8, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 8>
+Package pdftex.def Info: anexos/samir.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 8>
+Package pdftex.def Info: anexos/samir.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 8>
+Package pdftex.def Info: anexos/samir.pdf , page8 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [38 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=291, page=9, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 9>
+Package pdftex.def Info: anexos/samir.pdf , page9 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 9>
+Package pdftex.def Info: anexos/samir.pdf , page9 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 9>
+Package pdftex.def Info: anexos/samir.pdf , page9 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [39 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=297, page=10, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 10>
+Package pdftex.def Info: anexos/samir.pdf , page10 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 10>
+Package pdftex.def Info: anexos/samir.pdf , page10 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 10>
+Package pdftex.def Info: anexos/samir.pdf , page10 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [40 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=307, page=11, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 11>
+Package pdftex.def Info: anexos/samir.pdf , page11 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 11>
+Package pdftex.def Info: anexos/samir.pdf , page11 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 11>
+Package pdftex.def Info: anexos/samir.pdf , page11 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [41 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=313, page=12, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 12>
+Package pdftex.def Info: anexos/samir.pdf , page12 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 12>
+Package pdftex.def Info: anexos/samir.pdf , page12 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 12>
+Package pdftex.def Info: anexos/samir.pdf , page12 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [42 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]
+<anexos/samir.pdf, id=321, page=13, 598.235pt x 845.1575pt>
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 13>
+Package pdftex.def Info: anexos/samir.pdf , page13 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 13>
+Package pdftex.def Info: anexos/samir.pdf , page13 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: anexos/samir.pdf Graphic file (type pdf)
+<use anexos/samir.pdf, page 13>
+Package pdftex.def Info: anexos/samir.pdf , page13 used on input line 11.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [43 </home/iyan/PUC/LP/resumo/anexos/samir.pdf>]) (/home/iyan/PUC/LP/resumo/main.aux (/home/iyan/PUC/LP/resumo/cap1.aux) (/home/iyan/PUC/LP/resumo/cap2.aux) (/home/iyan/PUC/LP/resumo/anexos.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6048 strings out of 478994
+ 94020 string characters out of 5864751
+ 419913 words of memory out of 5000000
+ 23420 multiletter control sequences out of 15000+600000
+ 427344 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,17n,88p,353b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/iyan/PUC/LP/resumo/main.pdf (43 pages, 1252828 bytes).
+PDF statistics:
+ 361 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+

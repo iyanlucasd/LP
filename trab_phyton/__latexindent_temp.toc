@@ -1,0 +1,33 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\contentsline {chapter}{\chapternumberline {1}INTRODUÇÃO}{1}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}HISTÓRICO}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}NOME}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}COMUNIDADE}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}\textit {BeOpen.com} \& \textit {Digital Creations}}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}\textit {Python Software Foundation}}{6}{section.2.4}%
+\contentsline {chapter}{\chapternumberline {3}PARADIGMA}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}CONSTRUÇÕES}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}TIPOS DE DADOS}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}PALAVRAS RESERVADAS}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}OPERADORES}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.5}INTERPRETADOR INTERATIVO}{11}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {4}CARACTERÍSTICAS MARCANTES}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}ANÁLISE LÉXICA}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}COMPILADOR DE BYTECODE}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}ORIENTAÇÃO A OBJETO}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}PROGRAMAÇÃO FUNCIONAL}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}TRATAMENTO DE EXCEÇÕES}{16}{section.4.5}%
+\contentsline {section}{\numberline {4.6}BIBLIOTECA PADRÃO}{16}{section.4.6}%
+\contentsline {section}{\numberline {4.7}INTEROPERABILIDADE}{17}{section.4.7}%
+\contentsline {section}{\numberline {4.8}COMENTÁRIOS}{17}{section.4.8}%
+\contentsline {chapter}{\chapternumberline {5}LINGUAGENS SIMILARES OU CONFLITANTES}{18}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {6}CONCLUSÃO}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}CONSIDERAÇÕES FINAIS}{20}{section.6.1}%
+\contentsline {chapter}{Refer\^encias}{21}{chapter*.4}%
+\vspace {\cftbeforepartskip }
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {part}{Ap\^endices}{23}{section*.5}%
+\contentsline {appendix}{\chapternumberline {A}Opinião: Guilherme Cosso}{24}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}Opinião: Iyan Lucas}{25}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {C}Opinião: Samir Cambraia}{26}{appendix.C}%
